@@ -18,3 +18,6 @@ User Configuration setting file:
 --not sure if modifying this truly works
 https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Unable-to-Find-Oracle-Client/ta-p/177241
 
+Where Alteryx resides on computer
+-helpfull for debugging python tool installations
+https://community.alteryx.com/t5/Dev-Space/How-to-Install-Custom-Tools-to-Alteryx-installed-in-Roaming/td-p/167810
