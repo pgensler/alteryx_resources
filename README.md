@@ -25,3 +25,7 @@ https://community.alteryx.com/t5/Dev-Space/How-to-Install-Custom-Tools-to-Altery
 
 Workflow organization:
 https://community.alteryx.com/t5/Community-Lounge/Do-you-have-an-organizational-or-personal-way-of-documenting/td-p/44768/page/2
+
+
+Python depedency install issues:
+https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Including-Wheel-Files-With-Python-Tools/ta-p/188093
