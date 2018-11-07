@@ -29,3 +29,6 @@ https://community.alteryx.com/t5/Community-Lounge/Do-you-have-an-organizational-
 
 Python depedency install issues:
 https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Including-Wheel-Files-With-Python-Tools/ta-p/188093
+
+Using parameter from part of workflow to drive other part, like primary key in table
+https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Controlling-the-order-of-events/ta-p/5051
