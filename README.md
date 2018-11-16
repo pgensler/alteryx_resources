@@ -32,3 +32,7 @@ https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Including-Wheel-Files-Wi
 
 Using parameter from part of workflow to drive other part, like primary key in table
 https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Controlling-the-order-of-events/ta-p/5051
+
+
+Simple example of Batch macro
+https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Dynamic-Filter/ta-p/9922
