@@ -40,3 +40,5 @@ https://community.alteryx.com/t5/Alteryx-Knowledge-Base/Dynamic-Filter/ta-p/9922
 Great example of how a batch macro should work with a control parameter
 https://community.alteryx.com/t5/Live-Training/Live-Training-Build-Your-First-Batch-Macro/td-p/52900
 
+Driver Downloads
+https://pages.alteryx.com/Alteryx-Driver-Downloads-LP.html
