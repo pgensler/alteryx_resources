@@ -42,3 +42,8 @@ https://community.alteryx.com/t5/Live-Training/Live-Training-Build-Your-First-Ba
 
 Driver Downloads
 https://pages.alteryx.com/Alteryx-Driver-Downloads-LP.html
+
+
+Updating corrupt xml Excel Data:
+https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Output-to-Excel-error/td-p/49262/page/2
+
