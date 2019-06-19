@@ -47,3 +47,6 @@ https://pages.alteryx.com/Alteryx-Driver-Downloads-LP.html
 Updating corrupt xml Excel Data:
 https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Output-to-Excel-error/td-p/49262/page/2
 
+Fuzzy Matching:
+https://www.youtube.com/watch?time_continue=1247&v=DmfWsEjKRTU
+
